@@ -1,4 +1,4 @@
-# Docker image for ngxtop
+# Docker images for ngxtop
 
 ## Reference
 
