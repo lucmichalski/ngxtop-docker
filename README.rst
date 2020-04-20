@@ -5,6 +5,9 @@
 **ngxtop** parses your nginx access log and outputs useful, ``top``-like, metrics of your nginx server.
 So you can tell what is happening with your server in real-time.
 
+.. image:: https://img.shields.io/docker/v/ngxtop/ngxtop/latest?style=flat-square   :alt: Docker Image Version (tag latest semver)
+   :target: https://hub.docker.com/r/ngxtop/ngxtop
+
 License
 -------
 
